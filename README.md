@@ -39,7 +39,7 @@ tanish = {
 ### 🌿 [Smart Plant Monitoring System](https://github.com/BroomWroom/Smart-Plant-Monitoring-System)
 > IoT system using NodeMCU ESP8266 + ThingSpeak + a JavaScript dashboard with ML-based watering predictions for 22 plant profiles.
 
-### 🎨 [Ghibli New Tab](https://github.com/tanishwalture)
+### 🎨 [Ghibli New Tab](https://github.com/BroomWroom/Ghibli-Themed-Chrome-Extension)
 > A Studio Ghibli-themed Chrome extension replacing the new tab with animated scenes, ambient music, and daily inspiration.
 
 ---
