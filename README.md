@@ -26,23 +26,6 @@ tanish = {
 
 ---
 
-## 🚀 Featured Projects
-### 🎶 SpotSynchro
-> A smart spotify playlist generator with music mood trends.
-
-### 👽 Panels
-> Panels is a manga-themed Anime and Manga tracker web application currently in active development.
-
-### 🌷 Bloom 
-> A health tracker with workout trainer + medical assistance by connecting near by hospitals.
-
-### 🌿 [Smart Plant Monitoring System](https://github.com/BroomWroom/Smart-Plant-Monitoring-System)
-> IoT system using NodeMCU ESP8266 + ThingSpeak + a JavaScript dashboard with ML-based watering predictions for 22 plant profiles.
-
-### 🎨 [Ghibli New Tab](https://github.com/BroomWroom/Ghibli-Themed-Chrome-Extension)
-> A Studio Ghibli-themed Chrome extension replacing the new tab with animated scenes, ambient music, and daily inspiration.
-
----
 
 ## 🛠️ Tech Stack
 
